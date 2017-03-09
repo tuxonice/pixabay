@@ -1,4 +1,7 @@
 # pixabay
+
+[![API Testing](https://img.shields.io/badge/API%20Test-RapidAPI-blue.svg)](https://rapidapi.com/package/Pixabay?utm_source=PixabayGithub&utm_medium=button&utm_content=Vender_GitHub)
+
 A wrapper to Pixabay API (https://pixabay.com/api/docs/)
 
 ## USE
